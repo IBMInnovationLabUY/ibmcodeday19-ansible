@@ -121,3 +121,9 @@
   En este instante, nuestra aplicación está desplegandose. Luego de unos minutos debemos ver estos resultados de la Ejecución
 
 ![Toolchain Ejecutada primera vez](images/ToolChainExecuted.PNG)
+
+  Tenemos listo el setup! Ahora, a trabajar. Hagamos unos cambios en nuestra aplicación web para que veamos el delivery pipeline en acción.
+
+## Contactanos
+
+  Tenemos disponible este canal en slack https://ibmdevelopersuy.slack.com/#ansible para preguntas y respuestas. Síguenos en twitter [\@IBMUruguay](https://twitter.com/IBMUruguay). Happy Coding!
